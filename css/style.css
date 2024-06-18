@@ -196,10 +196,3 @@ footer div span{
 ::-webkit-scrollbar:hover{
     background-color: #8A47F6;
 }
-/* media screen mobile responsive */
-@media screen and (max-width: 480px){
-    .p-img1{
-        width: 200px;
-        height: 100px;
-    }
-}
